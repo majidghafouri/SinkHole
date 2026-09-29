@@ -50,3 +50,6 @@ app.*.map.json
 # Android build reports
 /android/build/
 /android/app/build/
+
+# Golden test failure artifacts
+/test/failures/
